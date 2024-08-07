@@ -3,7 +3,7 @@
 # /etc/ppp/prefixv6-up
 # called whenever an IPv6 network prefix appears
 #
-# Last Update:     $Id$
+# Last Update:     $Id: prefixv6-up 55285 2019-02-23 21:08:52Z kristov $
 #----------------------------------------------------------------------------
 
 # $1 = interface

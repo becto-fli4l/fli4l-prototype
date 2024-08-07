@@ -9,7 +9,7 @@
 ##        B I T T E  U N B E D I N G T   D I E   D O K U M E N T A T I O N
 ##              L E S E N ,  S I E H E   R E A D M E . T X T
 ##
-## Last Update:  $Id$
+## Last Update:  $Id: circuits.txt 55290 2019-02-23 21:09:12Z kristov $
 ##
 ## Copyright (c) 2001-2013 - Frank Meyer, fli4l-Team - team@fli4l.de
 ##

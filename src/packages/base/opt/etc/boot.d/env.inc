@@ -3,7 +3,7 @@
 # /etc/boot.d/env.inc
 # Functions for environment inspection.
 #
-# Last Update:  $Id$
+# Last Update:  $Id: env.inc 50007 2018-01-07 22:31:18Z kristov $
 #----------------------------------------------------------------------------
 
 if [ "$env_api" != yes ]

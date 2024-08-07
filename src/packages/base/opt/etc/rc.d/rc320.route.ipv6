@@ -2,7 +2,7 @@
 #----------------------------------------------------------------------------
 # /etc/rc.d/rc320.route.ipv6 - configuration of additional IPv6 routes
 #
-# Last Update:  $Id$
+# Last Update:  $Id: rc320.route.ipv6 49647 2017-12-20 21:34:28Z kristov $
 #----------------------------------------------------------------------------
 
 if [ 0"$IPV6_ROUTE_N" -gt 0 ]

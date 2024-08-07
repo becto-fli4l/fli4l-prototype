@@ -2,7 +2,7 @@
 #----------------------------------------------------------------------------
 # /etc/rc0.d/rc950.hwclock - write system time to hardware clock
 #
-# Last Update:  $Id$
+# Last Update:  $Id: rc950.hwclock 51346 2018-02-17 11:16:05Z kristov $
 #----------------------------------------------------------------------------
 
 case $RTC_SYNC in

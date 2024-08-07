@@ -3,7 +3,7 @@
 ## /etc/rc0.d/rc800.syslogd_rotate - rotate syslog files on shutdown
 ##
 ## Creation:     2009-02-16 LanSpezi
-## Last Update:  $Id$
+## Last Update:  $Id: rc800.syslogd_rotate 39896 2015-06-20 14:32:11Z kristov $
 ##-----------------------------------------------------------------------------
 
 begin_script SYSLOGD_ROTATE "Rotating syslog-files ..."

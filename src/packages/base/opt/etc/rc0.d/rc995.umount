@@ -4,7 +4,7 @@
 #                          '/', '/proc', '/dev/pts' and '/sys'
 #
 # Creation:     12.05.2002    rr
-# Last Update:  $Id$
+# Last Update:  $Id: rc995.umount 37218 2015-03-02 11:37:02Z kristov $
 #----------------------------------------------------------------------------
 
 # set -x

@@ -3,7 +3,7 @@
 # /etc/rc.d/rc090.haveged - enhance entropy                        __FLI4LVER__
 #
 # Creation:     2012-05-30 rresch
-# Last Update:  $Id$
+# Last Update:  $Id: rc090.haveged 39896 2015-06-20 14:32:11Z kristov $
 #------------------------------------------------------------------------------
 
 if [ -x /usr/sbin/haveged ]

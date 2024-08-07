@@ -3,7 +3,7 @@
 # /etc/boot.d/console.inc
 # Functions for printing to the console.
 #
-# Last Update:  $Id$
+# Last Update:  $Id: console.inc 50007 2018-01-07 22:31:18Z kristov $
 #----------------------------------------------------------------------------
 
 if [ "$console_api" != yes ]

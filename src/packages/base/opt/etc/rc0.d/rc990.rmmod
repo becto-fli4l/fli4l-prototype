@@ -3,7 +3,7 @@
 # /etc/rc0.d/rc990.rmmod - unload some problematic Hardware-Drivers
 #
 # Creation:     12.05.2002    rr
-# Last Update:  $Id$
+# Last Update:  $Id: rc990.rmmod 34074 2014-10-16 12:17:25Z kristov $
 #----------------------------------------------------------------------------
 
 begin_script RMMOD "Unloading kernel modules ..."

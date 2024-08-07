@@ -2,7 +2,7 @@
 #----------------------------------------------------------------------------
 # /usr/local/bin/setup-dynamic-iptables.sh - setup dynamic IPv4 packet filter
 #
-# Last Update:  $Id$
+# Last Update:  $Id: setup-dynamic-iptables.sh 51847 2018-03-06 14:55:07Z kristov $
 #----------------------------------------------------------------------------
 
 [ -f /var/run/ip_net.conf ] || exit 0

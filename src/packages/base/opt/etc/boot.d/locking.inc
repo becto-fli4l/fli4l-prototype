@@ -3,7 +3,7 @@
 # /etc/boot.d/locking.inc
 # Functions for locking/unlocking global resources.
 #
-# Last Update:  $Id$
+# Last Update:  $Id: locking.inc 50007 2018-01-07 22:31:18Z kristov $
 #----------------------------------------------------------------------------
 
 if [ "$locking_api" != yes ]

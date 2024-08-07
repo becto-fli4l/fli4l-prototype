@@ -1,7 +1,7 @@
 #!/bin/sh
 #----------------------------------------------------------------------------
 # /etc/rc.d/rc310.ipv6.filter - configuration of IPv6 PPP active filter
-# Last Update:  $Id$
+# Last Update:  $Id: rc350.ipv6.filter 48716 2017-08-16 06:53:23Z florian $
 #----------------------------------------------------------------------------
 
 if [ "$OPT_IPV6" = "yes" -a -e "$PPP_FILTER_FILE" ]

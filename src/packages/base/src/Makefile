@@ -19,7 +19,7 @@
 #  You should have received a copy of the GNU General Public License
 #  along with fli4l.  If not, see <http://www.gnu.org/licenses/>.
 #
-#  Last Update: $Id$
+#  Last Update: $Id: Makefile 44026 2016-01-14 21:14:28Z florian $
 #----------------------------------------------------------------------------
 
 COMP    = bz2

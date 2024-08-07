@@ -4,7 +4,7 @@
 #
 #
 # Creation:     2012-02-02 kristov
-# Last Update:  $Id$
+# Last Update:  $Id: rc005.mom.init 50084 2018-01-15 16:58:53Z kristov $
 #----------------------------------------------------------------------------
 
 begin_script RC005_MOM "initializing MOM (Message-Oriented Middleware) ..."

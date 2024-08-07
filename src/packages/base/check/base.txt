@@ -10,7 +10,7 @@
 ##              L E S E N ,  S I E H E   R E A D M E . T X T
 ##
 ## Creation:     26.06.2001  fm
-## Last Update:  $Id$
+## Last Update:  $Id: base.txt 53808 2018-09-11 13:58:27Z kristov $
 ##
 ## Copyright (c) 2001 - 2007 Frank Meyer <frank@fli4l.de>
 ##

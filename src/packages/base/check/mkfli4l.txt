@@ -2,7 +2,7 @@
 #
 # fli4l __FLI4LVER__ - configuration parameters for mkfli4l
 #
-# Last Update:  $Id$
+# Last Update:  $Id: mkfli4l.txt 44026 2016-01-14 21:14:28Z florian $
 #
 # Copyright (c) 2004-2016 - fli4l-Team <team@fli4l.de>
 #------------------------------------------------------------------------------

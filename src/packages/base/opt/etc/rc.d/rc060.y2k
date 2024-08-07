@@ -4,7 +4,7 @@
 # was file /etc/rc.d/y2k
 #
 # Creation:     18.10.2000 fm
-# Last Update:  $Id$
+# Last Update:  $Id: rc060.y2k 39896 2015-06-20 14:32:11Z kristov $
 #------------------------------------------------------------------------------
 
 case $OPT_Y2K in

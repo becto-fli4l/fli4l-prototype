@@ -3,7 +3,7 @@
 # parse command line                                           __FLI4LVER__
 #
 # Creation:       lanspezi 2004-10-25
-# Last Update:    $Id$
+# Last Update:    $Id: parse_cmd.sh 43888 2016-01-11 22:40:11Z kristov $
 # -------------------------------------------------------------------------
 
 show_header ()

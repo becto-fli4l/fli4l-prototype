@@ -4,7 +4,7 @@
 # was file /etc/rc.d/imond
 #
 # Creation:     10.10.2000 fm
-# Last Update:  $Id$
+# Last Update:  $Id: rc499.imond-dev 39896 2015-06-20 14:32:11Z kristov $
 #----------------------------------------------------------------------------
 
 if [ "$OPT_IMOND" = yes ]

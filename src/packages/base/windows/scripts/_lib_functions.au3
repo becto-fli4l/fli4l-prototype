@@ -2,7 +2,7 @@
 ; functions for the build-process (used by all other files)    __FLI4LVER__
 ;
 ; Creation: lanspezi 2005-04-15
-; $Id$
+; $Id: _lib_functions.au3 57351 2019-12-10 16:09:50Z lanspezi $
 ; -------------------------------------------------------------------------
 #include-once
 

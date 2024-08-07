@@ -3,7 +3,7 @@
 # /usr/local/sbin/circuit-status - Displays circuit status (on extra tty)
 #
 # Creation:	16.11.2000  tp
-# Last Update:  $Id$
+# Last Update:  $Id: circuit-status 55276 2019-02-23 21:08:12Z kristov $
 #------------------------------------------------------------------------------
 
 . /usr/share/circuits/api

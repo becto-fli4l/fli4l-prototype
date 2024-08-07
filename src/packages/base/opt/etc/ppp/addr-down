@@ -8,7 +8,7 @@
 #   $3 = local IPv4 address
 #   $4 = if non-empty, we are called from within ip-down
 #
-# Last Update:     $Id$
+# Last Update:     $Id: addr-down 55285 2019-02-23 21:08:52Z kristov $
 #----------------------------------------------------------------------------
 
 . /etc/boot.d/forking.inc

@@ -1,7 +1,7 @@
 ﻿#------------------------------------------------------------------------------
 # check/circuits.ext - extended check of circuits                  __FLI4LVER__
 #
-# Last Update:  $Id$
+# Last Update:  $Id: circuits.ext 49644 2017-12-20 21:34:14Z kristov $
 #------------------------------------------------------------------------------
 
 if (OPT_IMOND == "yes")

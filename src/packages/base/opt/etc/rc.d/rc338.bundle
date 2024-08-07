@@ -2,7 +2,7 @@
 #----------------------------------------------------------------------------
 # /etc/rc.d/rc338.bundle - initial configuration of bundle files
 #
-# Last Update:  $Id$
+# Last Update:  $Id: rc338.bundle 50007 2018-01-07 22:31:18Z kristov $
 #----------------------------------------------------------------------------
 
 case $OPT_BUNDLE in

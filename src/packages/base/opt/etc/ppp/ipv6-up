@@ -12,7 +12,7 @@
 #   $7 = if non-empty, we are called from within addrv6-up
 #
 # Creation:        26.09.2009  zone42
-# Last Update:     $Id$
+# Last Update:     $Id: ipv6-up 55285 2019-02-23 21:08:52Z kristov $
 #----------------------------------------------------------------------------
 
 . /etc/boot.d/lazy.inc

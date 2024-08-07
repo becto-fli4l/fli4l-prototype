@@ -2,7 +2,7 @@
 ; creates a fli4l-pxeboot    e                                 __FLI4LVER__
 ;
 ; Creation: lanspezi 2005-06-11
-; $Id$
+; $Id: mkpxeboot.au3 11314 2006-04-07 09:59:11Z jw5 $
 ; -------------------------------------------------------------------------
 #include-once
 

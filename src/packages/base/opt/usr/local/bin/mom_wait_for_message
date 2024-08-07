@@ -1,5 +1,5 @@
 #!/bin/sh
-# Revision: $Id$
+# Revision: $Id: mom_wait_for_message 51847 2018-03-06 14:55:07Z kristov $
 #
 # Waits for a message. As the endpoint registered by this script is anonymous,
 # only broadcast messages can be waited for.

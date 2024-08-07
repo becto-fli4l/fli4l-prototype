@@ -4,7 +4,7 @@
 # was file /etc/rc.d/lo
 #
 # Creation:     06.07.2000  fm
-# Last Update:  $Id$
+# Last Update:  $Id: rc300.lo 39896 2015-06-20 14:32:11Z kristov $
 #------------------------------------------------------------------------------
 
 begin_script LO "configuring loopback and ethernet device ..."

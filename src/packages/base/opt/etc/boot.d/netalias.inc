@@ -3,7 +3,7 @@
 # /etc/boot.d/netalias.inc
 # Functions for managing network aliases.
 #
-# Last Update:  $Id$
+# Last Update:  $Id: netalias.inc 50007 2018-01-07 22:31:18Z kristov $
 #----------------------------------------------------------------------------
 
 if [ "$netalias_api" != yes ]

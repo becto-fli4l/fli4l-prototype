@@ -3,7 +3,7 @@
 # /etc/boot.d/string.inc
 # Miscellaneous string helper functions.
 #
-# Last Update:  $Id$
+# Last Update:  $Id: string.inc 50007 2018-01-07 22:31:18Z kristov $
 #----------------------------------------------------------------------------
 
 if [ "$string_api" != yes ]

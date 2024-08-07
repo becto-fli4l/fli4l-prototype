@@ -3,7 +3,7 @@
 # /etc/rc.d/rc390.ipv6-daemons - IPv6 daemon startup             __FLI4LVER__
 #
 #
-# Last Update:  $Id$
+# Last Update:  $Id: rc390.ipv6-daemons 34546 2014-11-02 13:54:58Z kristov $
 #----------------------------------------------------------------------------
 
 if [ "$OPT_IPV6" = "yes" ]

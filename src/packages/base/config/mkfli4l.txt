@@ -10,7 +10,7 @@
 ##              L E S E N ,  S I E H E   R E A D M E . T X T
 ##
 ## Creation:     2004-10-20  lanspezi
-## Last Update:  $Id$
+## Last Update:  $Id: mkfli4l.txt 43807 2016-01-07 16:23:23Z florian $
 ##
 ## Copyright (c) 2004-2016 - fli4l-Team <team@fli4l.de>
 ##-----------------------------------------------------------------------------

@@ -3,7 +3,7 @@
 # /etc/boot.d/modules.inc
 # Functions for working with kernel modules.
 #
-# Last Update:  $Id$
+# Last Update:  $Id: modules.inc 50007 2018-01-07 22:31:18Z kristov $
 #----------------------------------------------------------------------------
 
 if [ "$modules_api" != yes ]

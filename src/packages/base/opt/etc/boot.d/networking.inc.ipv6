@@ -3,7 +3,7 @@
 # /etc/boot.d/networking.inc.ipv6
 # Extensions for IPv6 networking.
 #
-# Last Update:  $Id$
+# Last Update:  $Id: networking.inc.ipv6 50007 2018-01-07 22:31:18Z kristov $
 #----------------------------------------------------------------------------
 
 if [ "$networking_ipv6_api" != yes ]

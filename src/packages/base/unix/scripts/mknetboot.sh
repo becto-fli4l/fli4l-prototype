@@ -5,7 +5,7 @@
 # requires installed mknbi-linux!
 # Download:  http://netboot.sourceforge.net
 #
-# Last Update:    $Id$
+# Last Update:    $Id: mknetboot.sh 41283 2015-09-03 12:01:10Z lanspezi $
 #------------------------------------------------------------------------------
 
 # configuration parameters:

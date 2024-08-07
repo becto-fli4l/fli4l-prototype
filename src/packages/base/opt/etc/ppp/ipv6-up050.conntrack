@@ -2,7 +2,7 @@
 #----------------------------------------------------------------------------
 # /etc/ppp/ipv6-up050.conntrack - flush conntrack table
 #
-# Last Update:  $Id$
+# Last Update:  $Id: ipv6-up050.conntrack 34546 2014-11-02 13:54:58Z kristov $
 #----------------------------------------------------------------------------
 
 if [ "$is_default_route" = "yes" ]

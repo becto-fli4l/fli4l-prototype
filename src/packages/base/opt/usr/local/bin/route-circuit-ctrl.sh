@@ -4,7 +4,7 @@
 #
 # responsible for dialling and hanging up route circuits
 #
-# Last Update:  $Id$
+# Last Update:  $Id: route-circuit-ctrl.sh 51847 2018-03-06 14:55:07Z kristov $
 #----------------------------------------------------------------------------
 
 . /etc/boot.d/list.inc

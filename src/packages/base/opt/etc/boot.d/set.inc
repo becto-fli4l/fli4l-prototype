@@ -3,7 +3,7 @@
 # /etc/boot.d/set.inc
 # Functions for working with sets.
 #
-# Last Update:  $Id$
+# Last Update:  $Id: set.inc 50007 2018-01-07 22:31:18Z kristov $
 #----------------------------------------------------------------------------
 
 if [ "$set_api" != yes ]

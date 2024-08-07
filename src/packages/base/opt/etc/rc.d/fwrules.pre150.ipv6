@@ -3,7 +3,7 @@
 # /etc/rc.d/fwrules.pre150.ipv6                                  __FLI4LVER__
 #
 # Creation:     2007-10-08 kristov
-# Last Update:  $Id$
+# Last Update:  $Id: fwrules.pre150.ipv6 34546 2014-11-02 13:54:58Z kristov $
 #----------------------------------------------------------------------------
 
 ipv6_pops_file=/var/run/ipv6.pops

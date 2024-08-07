@@ -3,7 +3,7 @@
 # ipv6-interface-setup.sh                                        __FLI4LVER__
 #
 #
-# Last Update:  $Id$
+# Last Update:  $Id: ipv6-interface-setup.sh 55286 2019-02-23 21:08:56Z kristov $
 #----------------------------------------------------------------------------
 
 # $1 = file containing IPv6 network data

@@ -2,7 +2,7 @@
 #------------------------------------------------------------------------------
 # /etc/rc.d/rc370.circuits - perform circuit post-processing
 #
-# Last Update:  $Id$
+# Last Update:  $Id: rc370.circuits 34370 2014-10-25 21:24:02Z kristov $
 #------------------------------------------------------------------------------
 
 begin_script CIRCUITS_PP "perform circuit post-processing ..."

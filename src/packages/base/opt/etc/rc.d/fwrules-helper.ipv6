@@ -4,7 +4,7 @@
 # helper functions for packet filter rules
 #
 # Creation:     2003-07-05 jw5
-# Last Update:  $Id$
+# Last Update:  $Id: fwrules-helper.ipv6 52877 2018-06-06 05:18:52Z kristov $
 #----------------------------------------------------------------------------
 
 . /etc/boot.d/base-helper

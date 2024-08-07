@@ -3,7 +3,7 @@
 # /etc/rc.d/ppp-filter-helper - configuration of PPP active filter
 #
 # Creation:     2012-03-07 kristov
-# Last Update:  $Id$
+# Last Update:  $Id: ppp-filter-helper 28168 2013-07-28 18:32:16Z kristov $
 #----------------------------------------------------------------------------
 
 # contains PPP filter expressions to be added to the default or user-defined

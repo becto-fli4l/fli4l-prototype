@@ -3,7 +3,7 @@
 # /etc/rc.d/rc310.atd - start atd (simple-fli4l-edition)
 #
 # Creation:     22.03.2010 rresch
-# Last Update:  $Id$
+# Last Update:  $Id: rc310.atd 39896 2015-06-20 14:32:11Z kristov $
 #------------------------------------------------------------------------------
 
 if [ -f /usr/local/bin/atd.sh ]

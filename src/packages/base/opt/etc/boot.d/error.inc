@@ -3,7 +3,7 @@
 # /etc/boot.d/error.inc
 # Functions for handling error conditions.
 #
-# Last Update:  $Id$
+# Last Update:  $Id: error.inc 50007 2018-01-07 22:31:18Z kristov $
 #----------------------------------------------------------------------------
 
 if [ "$error_api" != yes ]

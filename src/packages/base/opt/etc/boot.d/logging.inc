@@ -3,7 +3,7 @@
 # /etc/boot.d/logging.inc
 # Functions for logging, especially while booting.
 #
-# Last Update:  $Id$
+# Last Update:  $Id: logging.inc 50007 2018-01-07 22:31:18Z kristov $
 #----------------------------------------------------------------------------
 
 if [ "$logging_api" != yes ]

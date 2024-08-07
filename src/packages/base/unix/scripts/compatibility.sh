@@ -3,7 +3,7 @@
 # Some compatibility stuff for Darwin (Mac OSX)              __FLI4LVER__
 #
 # Creation:       hh 2008-08-17
-# Last Update:    $Id$
+# Last Update:    $Id: compatibility.sh 17656 2009-10-18 18:39:00Z knibo $
 # -------------------------------------------------------------------------
 
 if uname | grep -q Darwin

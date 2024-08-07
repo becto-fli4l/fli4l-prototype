@@ -2,7 +2,7 @@
 #----------------------------------------------------------------------------
 # reload-radvd.sh - reloads/restarts radvd                       __FLI4LVER__
 #
-# Last Update:  $Id$
+# Last Update:  $Id: reload-radvd.sh 55286 2019-02-23 21:08:56Z kristov $
 #----------------------------------------------------------------------------
 
 . /etc/boot.d/base-helper

@@ -3,7 +3,7 @@
 # parse/read <config-dir>/mkfli4l.txt                          __FLI4LVER__
 #
 # Creation:    lanspezi 2004-11-17
-# Last Update: $Id$
+# Last Update: $Id: parse_mkfli4l_conf.sh 34951 2014-11-18 20:33:04Z lanspezi $
 # -------------------------------------------------------------------------
 
 cleanup_pmc ()

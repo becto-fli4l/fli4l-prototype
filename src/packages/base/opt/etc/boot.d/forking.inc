@@ -3,7 +3,7 @@
 # /etc/boot.d/forking.inc
 # Functions for adjusting state after forking to the background.
 #
-# Last Update:  $Id$
+# Last Update:  $Id: forking.inc 50007 2018-01-07 22:31:18Z kristov $
 #----------------------------------------------------------------------------
 
 if [ "$forking_api" != yes ]

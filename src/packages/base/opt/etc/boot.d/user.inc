@@ -3,7 +3,7 @@
 # /etc/boot.d/user.inc
 # Functions for working with users and groups.
 #
-# Last Update:  $Id$
+# Last Update:  $Id: user.inc 46951 2017-01-16 23:52:28Z kristov $
 #----------------------------------------------------------------------------
 
 USER_FILE=/etc/passwd

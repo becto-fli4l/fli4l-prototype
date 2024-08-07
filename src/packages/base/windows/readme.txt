@@ -1,6 +1,6 @@
 Programme für die Erzeugung der fli4l-Archive unter Windows
 
-Last Update:    $Id$
+Last Update:    $Id: readme.txt 26238 2013-03-03 13:28:04Z lanspezi $
 ===============================================================================
 
 autoit/autoit3.exe      Programm für den Windows-Build.

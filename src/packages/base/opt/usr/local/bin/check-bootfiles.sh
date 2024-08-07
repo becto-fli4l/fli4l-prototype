@@ -3,7 +3,7 @@
 # /usr/local/bin/check-bootfiles.sh
 #
 # Creation:     2013-03-08 lanspezi
-# Last Update:  $Id$
+# Last Update:  $Id: check-bootfiles.sh 51847 2018-03-06 14:55:07Z kristov $
 #----------------------------------------------------------------------------
 get_one_var()
 {

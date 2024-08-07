@@ -2,7 +2,7 @@
 ; language constants (german)                                  __FLI4LVER__
 ;
 ; Creation: lanspezi 2005-04-14
-; $Id$
+; $Id: _msg_deutsch.msg 37074 2015-02-12 19:28:39Z lanspezi $
 ; -------------------------------------------------------------------------
 
 [Global]

@@ -2,7 +2,7 @@
 ; creates a direct HD-Install                                  __FLI4LVER__
 ;
 ; Creation: lanspezi 2005-09-11
-; $Id$
+; $Id: mkhdinstall.au3 40508 2015-07-20 07:52:08Z kristov $
 ; -------------------------------------------------------------------------
 #include-once
 

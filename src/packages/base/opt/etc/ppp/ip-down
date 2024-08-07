@@ -12,7 +12,7 @@
 #   $7 = if non-empty, we are called from within addr-down
 #
 # Creation:        29.03.2000  fm
-# Last Update:     $Id$
+# Last Update:     $Id: ip-down 55285 2019-02-23 21:08:52Z kristov $
 #----------------------------------------------------------------------------
 
 . /etc/boot.d/lazy.inc

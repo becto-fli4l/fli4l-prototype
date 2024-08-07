@@ -3,7 +3,7 @@
 # /etc/rc.d/bundle-common
 # common functions for managing bundles
 #
-# Last Update:     $Id$
+# Last Update:     $Id: bundle-common 50007 2018-01-07 22:31:18Z kristov $
 #----------------------------------------------------------------------------
 
 if [ "$bundle_api" != yes ]

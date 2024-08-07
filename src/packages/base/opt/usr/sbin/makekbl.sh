@@ -3,7 +3,7 @@
 # /usr/sbin/makekbl.sh - make a keyboard layout map                __FLI4LVER__
 #
 # Creation:     02.11.2005  arwin
-# Last Update:  $Id$
+# Last Update:  $Id: makekbl.sh 51847 2018-03-06 14:55:07Z kristov $
 #------------------------------------------------------------------------------
 
 set +x

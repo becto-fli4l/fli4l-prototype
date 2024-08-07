@@ -3,7 +3,7 @@
 # Creates a fli4l-Floppy
 #
 # Created:        hansmi, 2004-03-31
-# Last Update:    $Id$
+# Last Update:    $Id: mkfloppy-darwin.sh 21104 2012-03-19 08:20:00Z kristov $
 #------------------------------------------------------------------------------
 
 suffix=''                                       # fast but not safe

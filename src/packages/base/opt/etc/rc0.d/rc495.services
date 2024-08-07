@@ -2,7 +2,7 @@
 #----------------------------------------------------------------------------
 # /etc/rc0.d/rc495.services - terminate running services
 #
-# Last Update:  $Id$
+# Last Update:  $Id: rc495.services 39896 2015-06-20 14:32:11Z kristov $
 #----------------------------------------------------------------------------
 
 service_stop_timeout=30

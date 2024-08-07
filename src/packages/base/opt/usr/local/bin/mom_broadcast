@@ -1,5 +1,5 @@
 #!/bin/sh
-# Revision: $Id$
+# Revision: $Id: mom_broadcast 51847 2018-03-06 14:55:07Z kristov $
 #
 # Broadcasts a message. The message data is passed in variables that are named
 # <message-type>_<parameter>.

@@ -3,7 +3,7 @@
 # /etc/rc.d/rc100.addmodules - load additional modules             __FLI4LVER__
 #
 # Creation:     2009-07-29 abe
-# Last Update:  $Id$
+# Last Update:  $Id: rc100.addmodules 39896 2015-06-20 14:32:11Z kristov $
 #------------------------------------------------------------------------------
 case $OPT_ADDMODULES in
 yes)

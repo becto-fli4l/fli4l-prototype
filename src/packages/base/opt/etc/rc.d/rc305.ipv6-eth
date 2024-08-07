@@ -4,7 +4,7 @@
 #
 #
 # Creation:         23.02.2005  ow
-# Last Update:  $Id$
+# Last Update:  $Id: rc305.ipv6-eth 49646 2017-12-20 21:34:24Z kristov $
 #----------------------------------------------------------------------------
 
 write_etc_hosts_header()

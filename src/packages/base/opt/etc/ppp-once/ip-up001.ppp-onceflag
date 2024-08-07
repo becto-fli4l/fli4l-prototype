@@ -1,7 +1,7 @@
 #!/bin/sh
 #----------------------------------------------------------------------------
 # Creation:     2008-04-09 lanspezi
-# Last Update:  $Id$
+# Last Update:  $Id: ip-up001.ppp-onceflag 14743 2008-04-09 19:53:01Z lanspezi $
 #----------------------------------------------------------------------------
 
 # is a default-route-interface going up?

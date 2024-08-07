@@ -3,7 +3,7 @@
 # /etc/boot.d/process.inc
 # Functions for process inspection and manipulation.
 #
-# Last Update:  $Id$
+# Last Update:  $Id: process.inc 50007 2018-01-07 22:31:18Z kristov $
 #----------------------------------------------------------------------------
 
 if [ "$process_api" != yes ]

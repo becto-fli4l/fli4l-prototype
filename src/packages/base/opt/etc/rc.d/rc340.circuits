@@ -3,7 +3,7 @@
 # /etc/rc.d/rc340.circuits - setup circuits
 #
 # Creation:     17.11.2000  fm
-# Last Update:  $Id$
+# Last Update:  $Id: rc340.circuits 37454 2015-03-14 14:51:03Z kristov $
 #------------------------------------------------------------------------------
 
 begin_script CIRCUITS "setting up circuits ..."

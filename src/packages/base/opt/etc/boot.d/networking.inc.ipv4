@@ -3,7 +3,7 @@
 # /etc/boot.d/networking.inc.ipv4
 # Extensions for IPv4 networking.
 #
-# Last Update:  $Id$
+# Last Update:  $Id: networking.inc.ipv4 52613 2018-04-20 21:48:13Z kristov $
 #----------------------------------------------------------------------------
 
 if [ "$networking_ipv4_api" != yes ]

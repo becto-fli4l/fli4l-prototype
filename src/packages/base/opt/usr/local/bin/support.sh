@@ -3,7 +3,7 @@
 # support.sh - collect support infos of router
 #
 # Creation:    17.02.2001 fm
-# Last Update: $Id$
+# Last Update: $Id: support.sh 51847 2018-03-06 14:55:07Z kristov $
 #----------------------------------------------------------------------------
 
 _MN_err='An error occured.'

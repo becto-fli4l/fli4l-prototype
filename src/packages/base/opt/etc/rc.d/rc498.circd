@@ -2,7 +2,7 @@
 #----------------------------------------------------------------------------
 # /etc/rc.d/rc498.circd - start circuit daemon
 #
-# Last Update:  $Id$
+# Last Update:  $Id: rc498.circd 39896 2015-06-20 14:32:11Z kristov $
 #----------------------------------------------------------------------------
 
 begin_script DIALMODE "setting initial dial mode to $DIALMODE ..."

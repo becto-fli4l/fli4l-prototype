@@ -2,7 +2,7 @@
 #------------------------------------------------------------------------------
 # /etc/rc.d/rc200.circuits - start circuit daemon
 #
-# Last Update:  $Id$
+# Last Update:  $Id: rc200.circuits 55275 2019-02-23 21:07:46Z kristov $
 #------------------------------------------------------------------------------
 
 begin_script CIRCUITS "starting circuit daemon ..."

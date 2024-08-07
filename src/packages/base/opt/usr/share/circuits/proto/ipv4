@@ -2,7 +2,7 @@
 #------------------------------------------------------------------------------
 # /usr/share/circuits/proto/ipv4 - generic circuits (IPv4 specific)
 #
-# Last Update:  $Id$
+# Last Update:  $Id: ipv4 55276 2019-02-23 21:08:12Z kristov $
 #------------------------------------------------------------------------------
 
 circuit_protocols="$circuit_protocols ipv4"

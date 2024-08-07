@@ -2,7 +2,7 @@
 #----------------------------------------------------------------------------
 # /etc/ppp/ip-down990.bundle
 #
-# Last Update:  $Id$
+# Last Update:  $Id: ip-down990.bundle 46110 2016-08-21 07:38:43Z kristov $
 #----------------------------------------------------------------------------
 
 # decrement reference counter of bundle master

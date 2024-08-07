@@ -2,7 +2,7 @@
 #------------------------------------------------------------------------------
 # /etc/rc.d/rc980.acpid - start daemon processing ACPI events      __FLI4LVER__
 #
-# Last Update:  $Id$
+# Last Update:  $Id: rc980.acpid 43302 2015-12-09 22:18:12Z kristov $
 #------------------------------------------------------------------------------
 
 case $POWERMANAGEMENT in

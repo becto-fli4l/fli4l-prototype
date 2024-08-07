@@ -4,7 +4,7 @@
 #
 #
 # Creation:     2012-02-14 kristov
-# Last Update:  $Id$
+# Last Update:  $Id: rc025.mom.netlink 39896 2015-06-20 14:32:11Z kristov $
 #----------------------------------------------------------------------------
 
 service-restart.sh 1 /usr/local/bin/mom_netlink >/dev/null &

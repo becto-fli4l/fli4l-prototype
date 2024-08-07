@@ -2,7 +2,7 @@
 #------------------------------------------------------------------------------
 # logmsg - log a message or stdin to syslog if available, else to the console
 #
-# Last Update:  $Id$
+# Last Update:  $Id: logmsg 51847 2018-03-06 14:55:07Z kristov $
 #------------------------------------------------------------------------------
 
 # $1 = tag

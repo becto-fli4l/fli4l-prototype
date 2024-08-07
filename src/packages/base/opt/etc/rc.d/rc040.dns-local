@@ -3,7 +3,7 @@
 # /etc/rc.d/rc040.dns-local
 #
 # Creation:     13.04.2000  fm
-# Last Update:  $Id$
+# Last Update:  $Id: rc040.dns-local 49649 2017-12-20 21:34:39Z kristov $
 #
 # Copyright (c) 2000-2001 - Frank Meyer
 # Copyright (c) 2001-2016 - fli4l-Team <team@fli4l.de>

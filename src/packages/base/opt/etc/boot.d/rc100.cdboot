@@ -3,7 +3,7 @@
 # /etc/boot.d/rc100.cdboot
 #
 # Creation:     2004-06-26 
-# Last Update:  $Id$
+# Last Update:  $Id: rc100.cdboot 39896 2015-06-20 14:32:11Z kristov $
 #----------------------------------------------------------------------------
 
 if [ ! "$boot" -a -f /proc/sys/dev/cdrom/info ]

@@ -3,7 +3,7 @@
 # creates a script to do a direct-hd-install                   __FLI4LVER__
 #
 # Creation:       2008-02-24 jb / LanSpezi
-# Last Update:    $Id$
+# Last Update:    $Id: mkhdinstall.sh 43936 2016-01-12 15:40:07Z kristov $
 # -------------------------------------------------------------------------
 
 scr_mounted=

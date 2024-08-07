@@ -2,7 +2,7 @@
 #  mkfli4l.txt - only needed for check of mkfli4l.txt            __FLI4LVER__
 #
 #  Creation:    2004-11-21 lanspezi
-#  Last Update: $Id$
+#  Last Update: $Id: mkfli4l.txt 44026 2016-01-14 21:14:28Z florian $
 #
 #  Copyright (c) 2001-2002 - Frank Meyer
 #  Copyright (c) 2002-2016 - fli4l-Team <team@fli4l.de>

@@ -3,7 +3,7 @@
 # /etc/mdev.d/mdev999.default - mdev default rules               __FLI4LVER__
 #
 #
-# Last Update:  $Id$
+# Last Update:  $Id: mdev999.default 47748 2017-04-15 13:11:12Z kristov $
 #----------------------------------------------------------------------------
 
 cat <<"EOF"

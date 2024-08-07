@@ -7,7 +7,7 @@
 ##
 ##-----------------------------------------------------------------------------
 ## Creation:     26.06.2001  fm
-## Last Update:  $Id$
+## Last Update:  $Id: base.txt 60747 2022-09-15 11:47:18Z florian $
 ##
 ## Copyright (c) 2001-2016 - Frank Meyer, fli4l-Team <team@fli4l.de>
 ##

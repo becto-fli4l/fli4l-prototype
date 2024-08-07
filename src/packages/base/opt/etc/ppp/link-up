@@ -9,7 +9,7 @@
 #        <master-type> for a master link ($BUNDLE_MASTER_TYPE_REAL or
 #                                         $BUNDLE_MASTER_TYPE_PSEUDO)
 #
-# Last Update:     $Id$
+# Last Update:     $Id: link-up 55285 2019-02-23 21:08:52Z kristov $
 #----------------------------------------------------------------------------
 
 . /etc/boot.d/lazy.inc

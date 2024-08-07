@@ -4,7 +4,7 @@
 # Creates a new opt.img and a new rootfs.img concerning to the configuration
 # in config/
 #
-# Last Update:    $Id$
+# Last Update:    $Id: mkopt.sh 51848 2018-03-06 14:55:16Z kristov $
 #------------------------------------------------------------------------------
 
 . ./unix/scripts/bootloader.sh

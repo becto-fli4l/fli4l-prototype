@@ -2,7 +2,7 @@
 ; call syslinux for the pre HD-Install                         __FLI4LVER__
 ;
 ; Creation: lanspezi 2008-08-14
-; $Id$
+; $Id: mkhdinstall_syslinux.au3 52030 2018-03-13 14:03:39Z lanspezi $
 ; -------------------------------------------------------------------------
 #include-once
 #RequireAdmin

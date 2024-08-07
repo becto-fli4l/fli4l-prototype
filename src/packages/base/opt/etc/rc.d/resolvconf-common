@@ -2,7 +2,7 @@
 #------------------------------------------------------------------------------
 # /etc/rc.d/resolvconf-common - common functions operating on resolv.conf
 #
-# Last Update:  $Id$
+# Last Update:  $Id: resolvconf-common 37478 2015-03-15 19:09:15Z kristov $
 #------------------------------------------------------------------------------
 
 . /etc/boot.d/base-helper

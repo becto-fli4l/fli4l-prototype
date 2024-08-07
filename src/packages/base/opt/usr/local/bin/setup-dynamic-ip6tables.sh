@@ -2,7 +2,7 @@
 #----------------------------------------------------------------------------
 # /usr/local/bin/setup-dynamic-ip6tables.sh - setup dynamic IPv6 packet filter
 #
-# Last Update:  $Id$
+# Last Update:  $Id: setup-dynamic-ip6tables.sh 51847 2018-03-06 14:55:07Z kristov $
 #----------------------------------------------------------------------------
 
 [ -f /var/run/ip6_net.conf ] || exit 0

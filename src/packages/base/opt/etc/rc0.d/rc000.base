@@ -3,7 +3,7 @@
 # /etc/rc0.d/rc000.base - prepare shut down
 #
 # Creation:     31.05.2010
-# Last Update:  $Id$
+# Last Update:  $Id: rc000.base 27501 2013-05-05 20:11:42Z kristov $
 #----------------------------------------------------------------------------
 
 service-restart.sh stop

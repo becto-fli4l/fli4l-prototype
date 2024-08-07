@@ -2,7 +2,7 @@
 ; language constants (french)                                  __FLI4LVER__
 ;
 ; Creation: Bernard Charrier 2005-10-02
-; $Id$
+; $Id: _msg_french.msg 37111 2015-02-16 15:08:59Z lanspezi $
 ; -------------------------------------------------------------------------
 
 [Global]

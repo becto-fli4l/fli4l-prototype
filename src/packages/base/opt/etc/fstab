@@ -2,7 +2,7 @@
 # /etc/fstab - mountable filesystems
 #
 # Creation:    29.03.2000  fm
-# Last Update: $Id$
+# Last Update: $Id: fstab 11172 2006-03-07 21:31:16Z jw5 $
 #----------------------------------------------------------------------------
 
 proc		/proc		proc	defaults

@@ -4,7 +4,7 @@
 # was file /etc/rc.d/rc600.portfw
 #
 # Creation:        05.11.2000  fm
-# Last Update:     $Id$
+# Last Update:     $Id: rc365.portfw 32228 2014-08-17 20:01:32Z kristov $
 #----------------------------------------------------------------------------
 
 case x$PORTFW_N in

@@ -3,7 +3,7 @@
 # support.inc - collect support infos of router
 #
 # Creation:    17.02.2001 fm
-# Last Update: $Id$
+# Last Update: $Id: support.inc 51847 2018-03-06 14:55:07Z kristov $
 #----------------------------------------------------------------------------
 
 show_imond_conf ()

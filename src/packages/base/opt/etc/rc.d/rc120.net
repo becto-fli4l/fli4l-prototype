@@ -4,7 +4,7 @@
 # was file /etc/rc.d/rc120.eth
 #
 # Creation:     29.03.2000  fm
-# Last Update:  $Id$
+# Last Update:  $Id: rc120.net 58799 2020-07-02 20:25:21Z alex $
 #----------------------------------------------------------------------------
 
 begin_script NET "loading network drivers ..."

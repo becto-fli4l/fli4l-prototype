@@ -3,7 +3,7 @@
 # /etc/ppp/prefix-down
 # called whenever an IPv4 network prefix disappears
 #
-# Last Update:     $Id$
+# Last Update:     $Id: prefix-down 55285 2019-02-23 21:08:52Z kristov $
 #----------------------------------------------------------------------------
 
 # $1 = interface

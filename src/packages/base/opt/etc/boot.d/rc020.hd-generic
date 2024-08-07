@@ -2,7 +2,7 @@
 #----------------------------------------------------------------------------
 # /etc/boot.d/rc020.hd-generic
 #
-# Last Update:  $Id$
+# Last Update:  $Id: rc020.hd-generic 55356 2019-03-04 12:42:57Z florian $
 #----------------------------------------------------------------------------
 
 begin_script BOOT "loading generic disk drivers ..."

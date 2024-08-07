@@ -2,7 +2,7 @@
 #------------------------------------------------------------------------------
 # Creates an iso image of a bootable fli4l cd                      __FLI4LVER__
 #
-# Last Update:  $Id$
+# Last Update:  $Id: mkiso.sh 51848 2018-03-06 14:55:16Z kristov $
 #------------------------------------------------------------------------------
 
 # include cleanup-functions

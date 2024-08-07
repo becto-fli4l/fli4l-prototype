@@ -2,7 +2,7 @@
 #----------------------------------------------------------------------------
 # /etc/rc.d/rc000.ipv6.disabled
 #
-# Last Update:  $Id$
+# Last Update:  $Id: rc000.ipv6.disabled 46035 2016-08-11 21:23:36Z kristov $
 #----------------------------------------------------------------------------
 
 begin_script RC000_BASE "enable preference of IPv4 addresses in DNS results..."

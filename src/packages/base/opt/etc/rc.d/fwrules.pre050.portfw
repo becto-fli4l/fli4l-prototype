@@ -3,7 +3,7 @@
 # /etc/rc.d/fwrules.pre050.portfw
 #
 # Creation:     2007-02-19 jw5
-# Last Update:  $Id$
+# Last Update:  $Id: fwrules.pre050.portfw 39896 2015-06-20 14:32:11Z kristov $
 #----------------------------------------------------------------------------
 
 pf_fwd_portfw_default () {

@@ -3,7 +3,7 @@
 # /etc/rc.d/rc910.arping
 #
 # Creation:     2007-03-14  lanspezi
-# Last Update:  $Id$
+# Last Update:  $Id: rc910.arping 39896 2015-06-20 14:32:11Z kristov $
 #------------------------------------------------------------------------------
 
 if [ "$HTTPD_ARPING" = "yes" -o -f /var/run/do_arping ]

@@ -2,7 +2,7 @@
 #----------------------------------------------------------------------------
 # mklinks.sh
 #
-# Last Update:  $Id$
+# Last Update:  $Id: mklinks.sh 21103 2012-03-19 08:10:48Z kristov $
 #
 # usage: /pathname/mklinks.sh source-tree dest-tree
 #

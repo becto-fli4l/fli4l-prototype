@@ -3,7 +3,7 @@
 # /etc/boot.d/networking.inc
 # Functions for networking.
 #
-# Last Update:  $Id$
+# Last Update:  $Id: networking.inc 55276 2019-02-23 21:08:12Z kristov $
 #----------------------------------------------------------------------------
 
 if [ "$networking_api" != yes ]

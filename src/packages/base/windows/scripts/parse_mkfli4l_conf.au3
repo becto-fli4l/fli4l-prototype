@@ -2,7 +2,7 @@
 ; parse/read config-dir/mkfli4l.txt                            __FLI4LVER__
 ;
 ; Creation: lanspezi 2005-04-04
-; $Id$
+; $Id: parse_mkfli4l_conf.au3 38461 2015-04-15 14:42:28Z lanspezi $
 ; -------------------------------------------------------------------------
 #include-once
 

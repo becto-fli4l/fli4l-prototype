@@ -4,7 +4,7 @@
 #
 #
 # Creation:     2012-02-02 kristov
-# Last Update:  $Id$
+# Last Update:  $Id: core 51847 2018-03-06 14:55:07Z kristov $
 #----------------------------------------------------------------------------
 
 if [ "$mom_core" != yes ]; then

@@ -3,7 +3,7 @@
 # /sbin/shutdown -- replacement for 'shutdown' wrapping busybox tools
 #
 # Creation:     2020-01-10 Alexander Dahl <alex@eisfair.org>
-# Last Update:  $Id$
+# Last Update:  $Id: shutdown 58550 2020-05-10 16:53:21Z alex $
 #--------------------------------------------------------------------
 
 usage ()

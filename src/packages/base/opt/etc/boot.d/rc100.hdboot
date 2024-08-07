@@ -3,7 +3,7 @@
 # /etc/boot.d/rc100.hdboot
 #
 # Creation:     2004-06-26 hs
-# Last Update:  $Id$
+# Last Update:  $Id: rc100.hdboot 39896 2015-06-20 14:32:11Z kristov $
 #----------------------------------------------------------------------------
 fli4l_path=/opt/files
 

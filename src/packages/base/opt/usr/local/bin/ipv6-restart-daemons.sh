@@ -3,7 +3,7 @@
 # ipv6-restart-daemons.sh                                        __FLI4LVER__
 #
 #
-# Last Update:  $Id$
+# Last Update:  $Id: ipv6-restart-daemons.sh 55286 2019-02-23 21:08:56Z kristov $
 #----------------------------------------------------------------------------
 
 . /etc/boot.d/base-helper

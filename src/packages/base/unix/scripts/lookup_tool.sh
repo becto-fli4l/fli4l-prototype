@@ -2,7 +2,7 @@
 # -------------------------------------------------------------------------
 # searches for a precompiled binary                            __FLI4LVER__
 #
-# Last Update:    $Id$
+# Last Update:    $Id: lookup_tool.sh 29083 2014-01-04 06:19:04Z kristov $
 # -------------------------------------------------------------------------
 
 # $1	 = tool name (e.g. mkfli4l)

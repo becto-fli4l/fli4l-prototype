@@ -3,7 +3,7 @@
 # /usr/local/bin/service-restart.sh - Run service in a loop
 #
 # Creation:    08.02.2003 tobig
-# Last Update: $Id$
+# Last Update: $Id: service-restart.sh 51847 2018-03-06 14:55:07Z kristov $
 #--------------------------------------------------------------------
 
 SEM=/var/run/service-restart.exit

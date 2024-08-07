@@ -3,7 +3,7 @@
 # /etc/boot.d/base-helper
 #
 # Creation:     2004-07-04 jw5
-# Last Update:  $Id$
+# Last Update:  $Id: base-helper 55284 2019-02-23 21:08:46Z kristov $
 #----------------------------------------------------------------------------
 
 if [ "$base_helper" != yes ]

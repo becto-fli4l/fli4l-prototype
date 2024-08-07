@@ -2,7 +2,7 @@
 ; parse command line                                           __FLI4LVER__
 ;
 ; Creation: lanspezi 2005-04-04
-; $Id$
+; $Id: parse_cmd.au3 41322 2015-09-04 12:37:40Z kristov $
 ; -------------------------------------------------------------------------
 #include-once
 

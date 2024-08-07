@@ -3,7 +3,7 @@
 # /etc/boot.d/exittrap.inc
 # Functions for managing shell exit hooks (exit traps).
 #
-# Last Update:  $Id$
+# Last Update:  $Id: exittrap.inc 50007 2018-01-07 22:31:18Z kristov $
 #----------------------------------------------------------------------------
 
 if [ "$exittrap_api" != yes ]

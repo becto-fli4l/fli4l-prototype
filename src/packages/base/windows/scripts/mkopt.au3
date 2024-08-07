@@ -2,7 +2,7 @@
 ; creates fli4l-files and archives                             __FLI4LVER__
 ;
 ; Creation: lanspezi 2005-04-04
-; $Id$
+; $Id: mkopt.au3 51848 2018-03-06 14:55:16Z kristov $
 ; -------------------------------------------------------------------------
 #include-once
 

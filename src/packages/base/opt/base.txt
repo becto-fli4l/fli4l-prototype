@@ -3,7 +3,7 @@
 #  base.txt - optional modules/programs/applications             __FLI4LVER__
 #
 #  Creation:    06.06.2001 fm
-#  Last Update: $Id$
+#  Last Update: $Id: base.txt 58970 2020-08-13 06:09:06Z alex $
 #
 #  Copyright (c) 2001-2007 - Frank Meyer
 #  Copyright (c) 2007-2016 - fli4l-Team <team@fli4l.de>

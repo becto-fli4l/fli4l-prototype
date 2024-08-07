@@ -2,7 +2,7 @@
 ; GUI to change build-settings interactive                     __FLI4LVER__
 ;
 ; Creation: lanspezi 2005-04-09
-; $Id$
+; $Id: dlg_mkfli4l_conf.au3 37062 2015-02-11 18:47:31Z lanspezi $
 ; -------------------------------------------------------------------------
 #include-once
 

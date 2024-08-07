@@ -3,7 +3,7 @@
 # /etc/rc0.d/rc490.hangup - hanging-up internet connection at shutdown
 #
 # Creation:     2005-11-12 lanspezi
-# Last Update:  $Id$
+# Last Update:  $Id: rc490.hangup 55276 2019-02-23 21:08:12Z kristov $
 #----------------------------------------------------------------------------
 
 . /usr/share/circuits/api

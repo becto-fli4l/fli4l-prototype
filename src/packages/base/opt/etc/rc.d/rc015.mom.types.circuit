@@ -3,7 +3,7 @@
 # /etc/rc.d/rc015.mom.types.circuit - circuit message types      __FLI4LVER__
 #
 #
-# Last Update:  $Id$
+# Last Update:  $Id: rc015.mom.types.circuit 47128 2017-02-13 21:00:35Z kristov $
 #----------------------------------------------------------------------------
 
 # circuit messages and message replies

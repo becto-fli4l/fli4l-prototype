@@ -2,7 +2,7 @@
 #------------------------------------------------------------------------------
 # /etc/rc.d/rc150.syslogd - provide functions for configuring syslogd
 #
-# Last Update:  $Id$
+# Last Update:  $Id: rc150.syslogd 39896 2015-06-20 14:32:11Z kristov $
 #------------------------------------------------------------------------------
 
 # $1 = entry

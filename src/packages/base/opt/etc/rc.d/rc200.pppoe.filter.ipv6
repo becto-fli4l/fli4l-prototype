@@ -2,7 +2,7 @@
 #----------------------------------------------------------------------------
 # /etc/rc.d/rc200.pppoe.filter.ipv6 - configuration of PPPoE active filter
 #
-# Last Update:  $Id$
+# Last Update:  $Id: rc200.pppoe.filter.ipv6 39896 2015-06-20 14:32:11Z kristov $
 #----------------------------------------------------------------------------
 if [ "$OPT_IPV6" = "yes" ]
 then

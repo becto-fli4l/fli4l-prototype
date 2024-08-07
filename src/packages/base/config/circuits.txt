@@ -7,7 +7,7 @@
 ##
 ##-----------------------------------------------------------------------------
 ## Creation:     26.06.2001  fm
-## Last Update:  $Id$
+## Last Update:  $Id: circuits.txt 44483 2016-02-12 21:20:35Z kristov $
 ##
 ## Copyright (c) 2001-2014 - Frank Meyer, fli4l-Team - team@fli4l.de
 ##

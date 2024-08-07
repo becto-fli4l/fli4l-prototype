@@ -2,7 +2,7 @@
 #------------------------------------------------------------------------------
 # syslogd_rotate.sh - rotates syslog-files
 # Creation:    LanSpezi 2009-02-16
-# Last Update: $Id$
+# Last Update: $Id: syslogd_rotate.sh 51847 2018-03-06 14:55:07Z kristov $
 #------------------------------------------------------------------------------
 
 # log destination for all messages that do not match any configured selector

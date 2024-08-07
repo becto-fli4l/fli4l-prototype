@@ -2,7 +2,7 @@
 #------------------------------------------------------------------------------
 # /etc/rc.d/rc160.hotplug.pci - load drivers for PCI hotplugging
 #
-# Last Update:  $Id$
+# Last Update:  $Id: rc160.hotplug.pci 39896 2015-06-20 14:32:11Z kristov $
 #------------------------------------------------------------------------------
 
 case $OPT_HOTPLUG_PCI in

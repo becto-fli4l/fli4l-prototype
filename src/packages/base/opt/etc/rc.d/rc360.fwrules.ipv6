@@ -3,7 +3,7 @@
 # /etc/rc.d/rc360.fwrules - configure firewall                     __FLI4LVER__
 #
 # Creation:     jw5
-# Last Update:  $Id$
+# Last Update:  $Id: rc360.fwrules.ipv6 39369 2015-05-24 19:00:50Z kristov $
 #------------------------------------------------------------------------------
 
 pf6_in_default_rules=

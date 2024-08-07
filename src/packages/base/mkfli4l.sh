@@ -3,7 +3,7 @@
 # creates a fli4l-Bootmedia or Image                           __FLI4LVER__
 #
 # Creation:       2004-10-25 LanSpezi
-# Last Update:    $Id$
+# Last Update:    $Id: mkfli4l.sh 47034 2017-01-23 10:49:21Z florian $
 # -------------------------------------------------------------------------
 
 remote_remount()

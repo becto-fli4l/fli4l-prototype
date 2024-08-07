@@ -2,7 +2,7 @@
 ; creates a LS120-Floppy                                       __FLI4LVER__
 ;
 ; Creation: lanspezi 2005-09-11
-; $Id$
+; $Id: mkls120.au3 40520 2015-07-20 12:27:12Z kristov $
 ; -------------------------------------------------------------------------
 #include-once
 

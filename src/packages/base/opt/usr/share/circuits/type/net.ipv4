@@ -2,7 +2,7 @@
 #----------------------------------------------------------------------------
 # /usr/share/circuits/type/net.ipv4 - net circuits (IPv4 specific)
 #
-# Last Update:  $Id$
+# Last Update:  $Id: net.ipv4 55281 2019-02-23 21:08:34Z kristov $
 #----------------------------------------------------------------------------
 
 # $1 = circuit information file

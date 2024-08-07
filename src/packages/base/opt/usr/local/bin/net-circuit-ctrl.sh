@@ -4,7 +4,7 @@
 #
 # responsible for dialling and hanging up net circuits
 #
-# Last Update:  $Id$
+# Last Update:  $Id: net-circuit-ctrl.sh 55280 2019-02-23 21:08:30Z kristov $
 #----------------------------------------------------------------------------
 
 . /usr/share/circuits/api

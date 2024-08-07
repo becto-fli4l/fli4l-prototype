@@ -3,7 +3,7 @@
 # /etc/boot.d/volume.inc
 # Functions for finding/mounting/unmounting volumes.
 #
-# Last Update:  $Id$
+# Last Update:  $Id: volume.inc 50007 2018-01-07 22:31:18Z kristov $
 #----------------------------------------------------------------------------
 
 if [ "$volume_api" != yes ]

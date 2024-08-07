@@ -2,7 +2,7 @@
 ; creates a fli4l-Floppy or Image                              __FLI4LVER__
 ;
 ; Creation: 2005-04-03 lanspezi
-; $Id$
+; $Id: mkfli4l.au3 43509 2015-12-20 13:11:20Z lanspezi $
 ; -------------------------------------------------------------------------
 #include "..\autoit\GUIConstantsEx.au3"
 #include "..\autoit\WindowsConstants.au3"

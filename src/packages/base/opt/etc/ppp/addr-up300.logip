@@ -3,7 +3,7 @@
 # /etc/ppp/ip-up300.logip
 #
 # Creation:     2007-10-12  lanspezi
-# Last Update:  $Id$
+# Last Update:  $Id: addr-up300.logip 32708 2014-09-07 17:27:05Z kristov $
 #----------------------------------------------------------------------------
 
 if [ -f /var/run/logip.conf -a -n "$address" ]

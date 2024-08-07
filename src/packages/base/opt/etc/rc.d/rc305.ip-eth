@@ -4,7 +4,7 @@
 # /etc/rc.d/ip-eth
 #
 # Creation:     04.02.2001  fm
-# Last Update:  $Id$
+# Last Update:  $Id: rc305.ip-eth 48924 2017-08-29 19:22:28Z kristov $
 #----------------------------------------------------------------------------
 
 begin_script IP_NET "configuring ip on network cards ..."

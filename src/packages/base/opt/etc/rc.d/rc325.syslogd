@@ -4,7 +4,7 @@
 # was file /etc/rc.d/syslogd
 #
 # Creation:     29.08.2000 fm
-# Last Update:  $Id$
+# Last Update:  $Id: rc325.syslogd 39896 2015-06-20 14:32:11Z kristov $
 #------------------------------------------------------------------------------
 
 if [ "$OPT_SYSLOGD" = yes ]

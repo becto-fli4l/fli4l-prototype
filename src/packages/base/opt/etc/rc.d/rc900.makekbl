@@ -3,7 +3,7 @@
 # /etc/rc.d/rc900.makekbl - create keyboard layout map             __FLI4LVER__
 #
 # Creation:     2009-05-08 arwin
-# Last Update:  $Id$
+# Last Update:  $Id: rc900.makekbl 39896 2015-06-20 14:32:11Z kristov $
 #------------------------------------------------------------------------------
 
 case $OPT_MAKEKBL in

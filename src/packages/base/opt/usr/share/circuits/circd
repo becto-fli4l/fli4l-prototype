@@ -7,7 +7,7 @@
 # for the communication between various parts of the circuit system, including
 # dial/hangup scripts, ip-up/down scripts, fli4lctrl, and the circuit daemon.
 #
-# Last Update:  $Id$
+# Last Update:  $Id: circd 55275 2019-02-23 21:07:46Z kristov $
 #------------------------------------------------------------------------------
 
 # that's we

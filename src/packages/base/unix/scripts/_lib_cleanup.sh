@@ -3,7 +3,7 @@
 # functions to remove not needed files                         __FLI4LVER__
 #
 # Creation:       lanspezi 2004-10-25
-# Last Update:    $Id$
+# Last Update:    $Id: _lib_cleanup.sh 41261 2015-09-02 19:39:01Z kristov $
 # -------------------------------------------------------------------------
 
 cleanup_fli4lfiles ()
