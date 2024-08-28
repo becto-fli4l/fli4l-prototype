@@ -21,6 +21,16 @@ a:hover {
   color: #f90;
 }
 
+object {
+  height: 750px;
+  width: 700px;
+}
+
+code {
+  font-family: Consolas,Monaco,Lucida Console,Liberation Mono,DejaVu Sans Mono,Bitstream Vera Sans Mono;
+  font-size: 12px;
+}
+
 #main {
   position: absolute;
   top: 40px;
@@ -32,6 +42,13 @@ a:hover {
   font-size: 30px;
   font-weight: normal;
   line-height: 40px;
+  letter-spacing: -1px;
+}
+
+#main h2 {
+  font-size: 20px;
+  font-weight: normal;
+  line-height: 20px;
   letter-spacing: -1px;
 }
 

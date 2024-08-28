@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>becto-fli4l: git-skeleton for fli4l-4 - Home</title>
+    <title>becto-fli4l: git-skeleton for fli4l-4 - About</title>
     <link rel="stylesheet" href="/stylesheet.css">
     <!-- you don't need to keep this, but it's cool for stats! - using the umami.is cloud -->
     <script defer src="https://cloud.umami.is/script.js" data-website-id="2927aa14-6922-427a-90d6-1203da8f63b2"></script>
@@ -11,34 +11,31 @@
   </head>
   <body>
     <div id="main">
-      <h1>becto-fli4l: git-skeleton for fli4l-4</h1>
+      <h2 id="about--becto">About | becto</h2>
 
-<p>The last testing version of fli4l was released in 2022/10/14 &rarr; the read-only svn repository is currently still online &rarr; so here is a part of the original svn repository as a skeleton on github.</p>
-<p>The skeleton helps you to create a fli4l installation folder from the latest svn revision (<strong>r60808</strong>) and is also a template for further development of the software on your own computer.</p>
-<p>Since fli4l is designed as a router or firewall, essential components should only be downloaded from secure sources. For this reason, the skeleton only consists of the absolute minimum.</p>
-<p>If the read-only svn server of fli4l fails, the software can still be further developed on your own (intel-based) computer at your own risk.</p>
-
-<p>How to use the skeleton:</p>
 <ul>
-  <li><p>Clone the github repository <strong>becto-fli4l</strong> to get the skeleton</p></li>
-  <li><p>Use a svn checkout to load the precompiled binaries from the fli4l svn-repo <strong>https://repo.nettworks.org/svn/fli4l</strong> &rarr; a shell script is included in the skeleton </br>&rarr; ./_svn-repo.nettworks.org~bin.sh &crarr; </p></li>
-  <li><p><u>Optional:</u></p></li>
-    <ul>
-      <li><p>Use a svn checkout to load the original packages directory from the fli4l svn-repo <strong>https://repo.nettworks.org/svn/fli4l</strong> &rarr; a shell script is included in the skeleton </br>&rarr; ./_svn-repo.nettworks.org~packages.sh &crarr;</p></li>
-    </ul>
-    <ul>
-      <li><p>Then you can move the packages you need into the package directory under /src/packages</p></li>
-    </ul>
-  <li><p>Execute the shell script &rarr; <strong>./_mkfli4lgit.sh</strong> &crarr; in the src folder &rarr; done</p></li>
+  <li>The usual way to contact me is by eMail / anything else that doesn’t fit into an eMail can be sent by regular mail</li>
+  <li>Use gnupg or s/mime if possible / see: <a href="https://raw.githubusercontent.com/becto-fli4l/becto-fli4l.github.io/main/becto_yubikey%2B34C79AFC.asc" target="_blank">gnupg public key</a></li>
+  <li>I expressly disagree with any use of my data for advertising purposes</li>
 </ul>
 
-<p>Please note that the skeleton is still new and various fli4l packages and functions are still missing, e.g. precompiled latex docs.</p>
-<p>This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.</p>
-<p>This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.</p>
-<p>You should have received a copy of the GNU General Public License along with this program. If not, see &rarr; <strong>https://www.gnu.org/licenses/</strong>.</p>
-<p>If you don't want to use the skeleton, you can also use the <strong>*tar.gz</strong> archives from &rarr; <strong>Harvey</strong>, which can be found on his cloud storage at gmx and can be unpacked directly into a fli4l installation folder / Harvey is part of the fli4l development team.</p>
-<p>If you have further questions or if you need help customising the skeleton, you are welcome to create an issue on github or post on news:spline.fli4l.dev.</p>
-<p>---</br>Tobias Becker, fli4l-at-becker-dot-link</p>
+<h2 id="note-on-patches--pull-requests">Note on patches / pull requests</h2>
+<ul>
+  <li>Fork the project on github</li>
+  <li>Make your feature addition or bug fix</li>
+  <li>Mail me a pull request and wait / fli4l is a leisure project and volunteer work</li>
+</ul>
+
+<pre><code>#!/sh
+gpg --show-keys --with-fingerprint becto_yubikey+34C79AFC.asc
+
+pub   rsa2048 2016-02-13 [SC] [verfällt: 2025-12-31]
+      8E0B 580D 73BF C2C4 F123  DE3D DC31 5E54 34C7 9AFC
+uid                      Tobias Becker (Hofstetterstrasse 10; 4054 Basel) &lt;tobias@becker.link&gt;
+uid                      Tobias Becker (yubikey-becto | priv-auth-key / 2016.02.13) &lt;yubikey-becto@becker.link&gt;
+sub   rsa2048 2016-02-13 [A] [verfällt: 2025-12-31]
+sub   rsa2048 2016-02-13 [E] [verfällt: 2025-12-31]
+</code></pre>
 
       <p><hr></p>
       <p>gitinfo/branch: &rarr; build from: <a href="https://github.com/becto-fli4l/becto-fli4l.github.io/tree/main" target="_blank">fli4l-upstream-becto</a></p>
