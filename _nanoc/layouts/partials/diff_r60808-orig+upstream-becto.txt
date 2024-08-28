@@ -5,6 +5,7 @@ A	_nanoc/content/index.html
 A	_nanoc/content/stylesheet.css
 A	_nanoc/layouts/default.html
 A	_nanoc/layouts/partials/diff_r60808-orig+r60808-becto.txt
+A	_nanoc/layouts/partials/diff_r60808-orig+upstream-becto.txt
 A	_nanoc/layouts/partials/gitHeadInfo.tex
 A	_nanoc/lib/helpers.rb
 A	_nanoc/nanoc.yaml
@@ -15,6 +16,7 @@ A	bin/_svn-repo.nettworks.org~bin.sh
 A	docs/index.html
 A	docs/stylesheet.css
 A	src/_mkfli4lgit.conf
+A	src/_mkfli4lgit.conf-becto
 A	src/_mkfli4lgit.sh
 M	src/packages/base/check/base.exp
 M	src/packages/base/opt/base.txt
