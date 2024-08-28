@@ -21,6 +21,11 @@ a:hover {
   color: #f90;
 }
 
+iframe {
+  height: 750px;
+  width: 700px;
+}
+
 object {
   height: 750px;
   width: 700px;
