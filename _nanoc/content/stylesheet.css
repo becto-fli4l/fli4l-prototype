@@ -26,6 +26,11 @@ object {
   width: 700px;
 }
 
+code {
+  font-family: Consolas,Monaco,Lucida Console,Liberation Mono,DejaVu Sans Mono,Bitstream Vera Sans Mono;
+  font-size: 12px;
+}
+
 #main {
   position: absolute;
   top: 40px;
