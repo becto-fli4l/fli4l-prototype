@@ -1,0 +1,1 @@
+../../src/packages/apcupsd/config/apcupsd.txt
