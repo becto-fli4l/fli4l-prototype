@@ -5,6 +5,17 @@ route '/partials/*' do
   nil
 end
 
+compile '/**/*.md' do
+  filter :kramdown
+  layout '/default.*'
+
+  if item.identifier =~ '**/index.*'
+    write item.identifier.to_s
+  else
+    write item.identifier.without_ext + '/index.html'
+  end
+end
+
 compile '/**/*.html' do
   layout '/default.*'
 
