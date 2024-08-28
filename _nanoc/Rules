@@ -1,5 +1,10 @@
 #!/usr/bin/env ruby
 
+# Do not output partials; they are only ever embedded in other content
+route '/partials/*' do
+  nil
+end
+
 compile '/**/*.html' do
   layout '/default.*'
 
